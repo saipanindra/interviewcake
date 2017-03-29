@@ -7,7 +7,7 @@
         {
             "taskName": "build",
             "args": [
-                "${workspaceRoot}\\DeptFirstSearch\\DeptFirstSearch.csproj"
+                "${workspaceRoot}\\IsBalancedOrNot\\IsBalancedOrNot.csproj"
             ],
             "isBuildCommand": true,
             "problemMatcher": "$msCompile"

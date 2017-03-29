@@ -6,9 +6,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceRoot}\\DeptFirstSearch\\bin\\Debug\\netcoreapp1.1\\DeptFirstSearch.dll",
+            "program": "${workspaceRoot}\\IsBalancedOrNot\\bin\\Debug\\netcoreapp1.1\\IsBalancedOrNot.dll",
             "args": [],
-            "cwd": "${workspaceRoot}\\DeptFirstSearch",
+            "cwd": "${workspaceRoot}\\IsBalancedOrNot",
             "console": "internalConsole",
             "stopAtEntry": false,
             "internalConsoleOptions": "openOnSessionStart"
