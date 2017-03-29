@@ -1,0 +1,8 @@
+c:\Users\saipa\interviewcake\DeptFirstSearch\bin\Debug\netcoreapp1.1\DeptFirstSearch.deps.json
+c:\Users\saipa\interviewcake\DeptFirstSearch\bin\Debug\netcoreapp1.1\DeptFirstSearch.runtimeconfig.json
+c:\Users\saipa\interviewcake\DeptFirstSearch\bin\Debug\netcoreapp1.1\DeptFirstSearch.runtimeconfig.dev.json
+c:\Users\saipa\interviewcake\DeptFirstSearch\bin\Debug\netcoreapp1.1\DeptFirstSearch.dll
+c:\Users\saipa\interviewcake\DeptFirstSearch\bin\Debug\netcoreapp1.1\DeptFirstSearch.pdb
+c:\Users\saipa\interviewcake\DeptFirstSearch\obj\Debug\netcoreapp1.1\DeptFirstSearch.AssemblyInfo.cs
+c:\Users\saipa\interviewcake\DeptFirstSearch\obj\Debug\netcoreapp1.1\DeptFirstSearch.dll
+c:\Users\saipa\interviewcake\DeptFirstSearch\obj\Debug\netcoreapp1.1\DeptFirstSearch.pdb
